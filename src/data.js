@@ -1,23 +1,23 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://i.ibb.co/p47dtFv/bmw.png",
-    title: "BMW",
-    desc: "lEAN MEAN German Machine",
+    img: "https://i.ibb.co/bRFv7G0/twitch-logo.jpg",
+    title: "Twitch.TV",
+    desc: "All action is live, better then cable.",
     bg: "f5fafd",
   },
   {
     id: 2,
-    img: "https://i.ibb.co/7zJF9Xf/401413.png",
-    title: "AUDI",
-    desc: "4 rings for the kings of the street",
+    img: "https://i.ibb.co/qmky68q/mateo-vrbs-n-CU4yq5x-DEQ-unsplash.jpg",
+    title: "Gear",
+    desc: "Gaming taken to the next level!",
     bg: "f5fafd",
   },
   {
     id: 3,
-    img: "https://i.ibb.co/Nxq2ymH/1088.jpg",
-    title: "UNSC",
-    desc: "remember Reach...",
+    img: "https://i.ibb.co/8xybngV/coding.jpg",
+    title: "React",
+    desc: "Framework that made this application possible",
     bg: "f5fafd",
   },
   
@@ -26,52 +26,52 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: "https://i.ibb.co/Gtg9rZ5/scale.jpg",
-    title: "Angel Eyes",
+    img: "https://i.ibb.co/hf3ZJbJ/2983940.jpg",
+    title: "Casual / Lounge ",
   },
   {
     id: 2,
-    img: "https://i.ibb.co/999nSY3/356775.jpg",
-    title: "QUATTRO",
+    img: "https://i.ibb.co/9GvQYd5/justdoit.jpg",
+    title: "Active Wear",
   },
   {
     id: 3,
-    img: "https://i.ibb.co/qgfzg0Q/halo-awesomeness-v-2-0.jpg",
-    title: "master chief",
+    img: "https://i.ibb.co/84nchy4/work.jpg",
+    title: "Work Attire",
   },
 ];
 
 export const popularProducts = [
   {
     id:1,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img:"https://i.ibb.co/KWb4HF0/20191005-203244.jpg",
   },
   {
     id:2,
-    img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img:"https://i.ibb.co/pZgh6HT/20191005-203321.jpg",
   },
   {
     id:3,
-    img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    img:"https://i.ibb.co/RpJJdMK/20191005-203338.jpg",
   },
   {
     id:4,
-    img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img:"https://i.ibb.co/CsWd37q/Snapchat-1572332472.jpg",
   },
   {
     id:5,
-    img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    img:"https://i.ibb.co/N780Jqf/Snapchat-1759829755.jpg",
   },
   {
     id:6,
-    img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img:"https://i.ibb.co/WFcvzMM/20191005-203403.jpg",
   },
   {
     id:7,
-    img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img:"https://i.ibb.co/p47dtFv/bmw.png",
   },
   {
     id:8,
-    img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    img:"https://i.ibb.co/7zZx6zJ/pokemon.jpg",
   },
 ]
