@@ -127,7 +127,7 @@ const Product = () => {
         </ImgContainer>
         <InfoContainer>
           <Title>twitch blanket</Title>
-          <Desc>POGG</Desc>
+          <Desc>POG</Desc>
           <Price>$20</Price>
           <FilterContainer>
             <Filter>
