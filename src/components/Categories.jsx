@@ -1,7 +1,7 @@
-import styled from 'styled-components'
-import React from 'react'
-import { categories } from '../data'
-import CategoryItem from './CategoryItem'
+import styled from "styled-components";
+import React from "react";
+import { categories } from "../data";
+import CategoryItem from "./CategoryItem";
 
 const Container = styled.div`
   display: flex;
@@ -12,11 +12,11 @@ const Container = styled.div`
 const Categories = () => {
   return (
     <Container>
-      {categories.map(item=>(
-        <CategoryItem item={item} key={item.id}/>
+      {categories.map((item) => (
+        <CategoryItem item={item} key={item.id} />
       ))}
     </Container>
-  )
-}
+  );
+};
 
-export default Categories
+export default Categories;
